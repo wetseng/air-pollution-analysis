@@ -1,34 +1,44 @@
 # **Air Pollution Analysis**
 Team Magical Ligers!<br>
 Go Team! <br> 
-![magicalliger](./images/ml.jpeg "Magical Ligers")
+![magicalliger](./annual_seasonal_notebooks/images/ml.jpeg "Magical Ligers")
 ## **Project 1**
 **Team:** Magical Ligers<br>
 **Team Members:** Hyun Soo Kim, Nazia Haque, Wayne Tseng, Christian Pompa
 
 ## **Project Description:** 
 * Air Pollution data on: 
+    * Population & Location ( Hyun Soo Kim )
     * Seasons: summer spring, holiday weekends ( Christian )
-    * Time of day ( Christian )
-    * Cities with subways/train public transit ( Wayne / Christian )
+    * Time of Day (Christian)
+    * Twitter data, by location about air pollution. ( Naz )
+    * Twitter & Covid-19 (Naz)
     * How much pollution do cars give off? Which brand of car? ( Wayne )
-    * Social Media inquiries around Covid 19 (Corona Virus), by location, about air pollution. ( Naz )
-    * Population of Top 5 major cities ( Hyun Soo Kim )
 
 ## **Research Questions Interested in Exploring:**
 ### Seasons
-Sample data from EPA included site location measurements for nearly every hour of the day, for everyday of the year. The amount of information allowed me to seperate the data in many ways including by season. Which season, in 2019, has the worst air pollution?<br> 
+
+* Should the US start wearing masks after a pandemic?
+* How long are we living in moderate and good conditions for air quality?
+* Does it really matter to the US population? 
+* How are we polluting cities? 
+* Which region contributes to air pollution?
+
 ### Time of Day
 Measurements by the day, and hour, can provide the percentage of time we live in good or neatrual air. Which time of day provided the worst air pollution? <br>
+
 ### How healthy is healthy?
 Every time frame includes sample measurements. EPA.gov has listed the PM 2.5 health index which informs us the severity levels in air pollution. Combining measurements with specific thresholds can give us answers on "How bad is bad?"<br>
 
 ### Social Media data, by location about air pollution (Covid): 
 Information coming soon. <br> 
+
 ### Cities with subways/train public transit
 Information coming soon. <br> 
+
 ### How much pollution do cars give off? Which brand of car?
 Information coming soon. <br> 
+
 ### Population of Top 5 major cities
 Information coming soon. <br> 
 
