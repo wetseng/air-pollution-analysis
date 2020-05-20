@@ -50,5 +50,6 @@ Documentation: https://aqs.epa.gov/aqsweb/documents/data_api.html
 * Twitter<br>
 Ex api: https://developer.twitter.com/en  <br>
 Documentation:https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-update
+Library: http://docs.tweepy.org/en/latest/
 * Population Data
 https://www.census.gov/content/census/en/data/tables/time-series/demo/popest/2010s-counties-total.html
