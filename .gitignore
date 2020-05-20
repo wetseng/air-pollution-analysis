@@ -132,3 +132,6 @@ dmypy.json
 .config.py
 config.py
 *config.py
+*Config.py
+
+*.DS_Store
